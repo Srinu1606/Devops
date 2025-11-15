@@ -34,3 +34,5 @@ developer
     }
   }
 }
+
+>>>>>>> Stashed changes
