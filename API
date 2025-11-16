@@ -1,5 +1,7 @@
 postman
 {
-"sai" : "deep"
+"sai" : "deep";
+"deep" : "sai"
+
 
 }
